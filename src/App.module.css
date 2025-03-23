@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: whitesmoke;
+}
+
+.calculator{
+    height: 500px;
+    width: 400px;
+    box-sizing: border-box;
+    background-color: rgba(189, 142, 189, 0.382);
+    justify-content: center;
+    text-align: center;
+    color: whitesmoke;
+    border-radius: 8px;
+}
